@@ -1,5 +1,5 @@
 {
-  "name": "find-chrome-version",
+  "name": "find-chrome-version-ext",
   "version": "2.2.0",
   "description": "Finds installed Chrome version",
   "keywords": [
